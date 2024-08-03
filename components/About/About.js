@@ -10,7 +10,7 @@ import {
   AboutListItem,
   AboutListContainer,
 } from "./About.styles";
-import akimHero from "@/public/akim2020.jpg";
+import akimHero from "@/public/John.jpg";
 function About(props, ref) {
   return (
     <AboutContainer id={props.id} ref={ref}>

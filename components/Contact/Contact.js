@@ -41,7 +41,7 @@ function Contact(props, ref) {
         on my portfolio and it will be in the blockchain for the eternity.
       </ContactSummary>
       <Link
-        href="mailto:akim.benchiha@gmail.com?subject=Contact from your Portfolio"
+        href="mailto:blackpolestar215@gmail.com.?subject=Contact from your Portfolio"
         passHref={true}
       >
         <ContactButton className="boxButton" aria-label="Contact">
