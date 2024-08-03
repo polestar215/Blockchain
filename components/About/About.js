@@ -164,11 +164,11 @@ function About(props, ref) {
         </div>
         <div className="about-hero">
           <Image
-            title="Akim Benchiha"
+            title="John Ruff"
             src={akimHero}
             loading="lazy"
             layout="responsive"
-            alt="Akim Benchiha"
+            alt="John Ruff"
           />
         </div>
       </AboutArticle>

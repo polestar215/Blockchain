@@ -13,9 +13,9 @@ function Something() {
           </div>
           <BitmojiContainer>
             <Image
-              title="Akim has something related with blockchain"
+              title="John  has something related with blockchain"
               src={akimHey}
-              alt="Akim has something for your"
+              alt="John has something for your"
               loading="lazy"
               layout="responsive"
               width={398}

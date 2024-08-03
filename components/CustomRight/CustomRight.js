@@ -5,9 +5,9 @@ function CustomRight() {
   return (
     <CustomRightContainer>
       <CustomRightContent>
-        <Link href="mailto:akim.benchiha@gmail.com" passHref={true}>
-          <a rel="noopener noreferrer" aria-label="akim.benchiha@gmail.com">
-            akim.benchiha@gmail.com
+        <Link href="mailto:blackpolestar215@gmail.com" passHref={true}>
+          <a rel="noopener noreferrer" aria-label="blackpolestar215@gmail.com">
+            blackpolestar215@gmail.com
           </a>
         </Link>
       </CustomRightContent>
