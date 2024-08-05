@@ -10,7 +10,7 @@ import {
   AboutListItem,
   AboutListContainer,
 } from "./About.styles";
-import akimHero from "@/public/John.jpg";
+import JohnHero from "@/public/flower.jpg";
 function About(props, ref) {
   return (
     <AboutContainer id={props.id} ref={ref}>
@@ -165,7 +165,7 @@ function About(props, ref) {
         <div className="about-hero">
           <Image
             title="John Ruff"
-            src={akimHero}
+            src={JohnHero}
             loading="lazy"
             layout="responsive"
             alt="John Ruff"

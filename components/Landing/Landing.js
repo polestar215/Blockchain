@@ -40,7 +40,7 @@ function Landing(props, ref) {
             I&apos;m currently working as a Consulting Engineer at Alcyone
           </HeroSummary>
           <HeroActions>
-            <Link href="/CV_Akim_BENCHIHA_EN.pdf">
+            <Link href="/JohnRuffResume.pdf">
               <a
                 target="_blank"
                 rel="noopener noreferrer"
