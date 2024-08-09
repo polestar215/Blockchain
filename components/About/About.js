@@ -18,7 +18,7 @@ function About(props, ref) {
       <AboutArticle>
         <div className="about-summary">
           <p>
-            Hi there! My name isJhon Ruff and I am always ready to start a
+            Hi there! My name is John Ruff and I am always ready to start a
             new project and start building amazing things on the internet. Since
             2017, there is one major technology that I want to work more than
             others. (Spoiler : Blockchain)
